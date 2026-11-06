@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kharcha",
+  "description": "Professional personal expense manager with dynamic analytics, categories, reports, budgets, and data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
